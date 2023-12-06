@@ -3,8 +3,7 @@ numpy
 pandas
 matplotlib
 seaborn
-sklearn
+scikit-learn
 yellowbrick
 tensorflow
 wordcloud
-joblib
